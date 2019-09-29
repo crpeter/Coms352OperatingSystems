@@ -1,4 +1,4 @@
-## Com Sci 352: Operating Systems
+# Com Sci 352: Operating Systems
 
 ## Project 1: POSIX Threads
 90/100
